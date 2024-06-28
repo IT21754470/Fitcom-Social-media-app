@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@firebase/auth": "^1.7.3",
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-brands-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.1",
+    "buffer": "^6.0.3",
+    "dotenv": "^16.4.5",
+    "firebase": "^10.12.0",
+    "google-auth-library": "^9.9.0",
+    "https-browserify": "^1.0.0",
+    "querystring-es3": "^0.2.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.2.1",
+    "stream-http": "^3.2.0",
+    "url": "^0.11.3"
+  }
+}
